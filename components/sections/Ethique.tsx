@@ -13,14 +13,14 @@ export function Ethique() {
         <AnimatedSection>
           <SectionEyebrow>Éthique</SectionEyebrow>
           <SectionTitle className="mt-5 max-w-3xl text-white">
-            Une pratique exigeante de <em className="text-ciel">l'influence</em>
+            Une pratique exigeante de <em className="text-ciel">l&apos;influence</em>
           </SectionTitle>
         </AnimatedSection>
 
         <div className="mt-16 grid gap-12 lg:grid-cols-2 lg:gap-20">
           <AnimatedSection delay={0.1}>
             <p className="max-w-xl text-lg font-light leading-9 text-white/55">
-              Notre conseil repose sur une conviction simple : l'influence n'a de valeur que si elle
+              Notre conseil repose sur une conviction simple : l&apos;influence n&apos;a de valeur que si elle
               sert des positions assumées, une méthode robuste et une relation de confiance inscrite
               dans la durée.
             </p>

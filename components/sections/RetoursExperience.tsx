@@ -21,15 +21,15 @@ export function RetoursExperience() {
       <div className="mx-auto max-w-7xl">
         <AnimatedSection className="grid gap-10 lg:grid-cols-[0.85fr_1.15fr] lg:gap-16">
           <div>
-            <SectionEyebrow>Retours d'expérience</SectionEyebrow>
+            <SectionEyebrow>Retours d&apos;expérience</SectionEyebrow>
             <SectionTitle className="mt-5 text-white">
-              Des missions au service d'un <em className="text-ciel">impact mesurable</em>
+              Des missions au service d&apos;un <em className="text-ciel">impact mesurable</em>
             </SectionTitle>
           </div>
 
           <p className="max-w-2xl text-base font-light leading-8 text-white/55 md:text-lg">
             Les interventions du cabinet se construisent dans la discrétion, avec des livrables utiles
-            aux décisions de direction générale et aux séquences d'influence à fort enjeu.
+            aux décisions de direction générale et aux séquences d&apos;influence à fort enjeu.
           </p>
         </AnimatedSection>
 

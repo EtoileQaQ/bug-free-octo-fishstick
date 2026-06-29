@@ -37,7 +37,7 @@ export function Approche() {
 
           <p className="max-w-2xl text-base leading-8 text-grey md:text-lg">
             Spin & Strategy accompagne les organisations qui veulent faire exister leurs idées dans
-            l'espace public, au croisement de la stratégie, du politique, de l'influence et de la recherche.
+            l&apos;espace public, au croisement de la stratégie, du politique, de l&apos;influence et de la recherche.
           </p>
         </AnimatedSection>
 

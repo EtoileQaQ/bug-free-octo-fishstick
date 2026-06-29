@@ -95,7 +95,7 @@ export function Equipe() {
             className="flex min-h-full flex-col justify-between bg-ink p-8 text-white"
           >
             <p className="font-display text-4xl font-normal italic leading-tight text-white/15">
-              Rejoignez l'aventure
+              Rejoignez l&apos;aventure
             </p>
             <div className="mt-16">
               <p className="text-[0.75rem] font-semibold uppercase tracking-wide text-ciel">

@@ -141,7 +141,7 @@ export function Contact() {
                 >
                   <option>Leadership de pensée</option>
                   <option>Intelligence politique</option>
-                  <option>Stratégie d'influence</option>
+                  <option>Stratégie d&apos;influence</option>
                   <option>Demande presse</option>
                 </select>
               </label>

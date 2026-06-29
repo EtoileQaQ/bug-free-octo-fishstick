@@ -27,7 +27,7 @@ export function Offres() {
           </div>
 
           <p className="max-w-2xl text-base leading-8 text-grey md:text-lg">
-            Spin & Strategy intervient de la conception stratégique à l'action d'influence, en combinant
+            Spin & Strategy intervient de la conception stratégique à l&apos;action d&apos;influence, en combinant
             analyse politique, gouvernance, prospective et maîtrise du risque réputationnel.
           </p>
         </AnimatedSection>

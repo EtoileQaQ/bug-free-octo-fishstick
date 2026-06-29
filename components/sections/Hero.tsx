@@ -39,7 +39,7 @@ export function Hero() {
             transition={{ duration: 0.7, ease: [0.22, 1, 0.36, 1], delay: 0.25 }}
             className="mt-7 max-w-xl text-lg font-light leading-8 text-white"
           >
-            Premier cabinet de conseil alliant les métiers du politique et de l'influence avec le conseil
+            Premier cabinet de conseil alliant les métiers du politique et de l&apos;influence avec le conseil
             en stratégie et les sciences sociales, au service du leadership de pensée.
           </motion.p>
 
