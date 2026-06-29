@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "tag": "Intelligence politique",
+    "titre": "Paris semble imperdable pour la gauche à l'approche des élections 2026",
+    "extrait": "À l'aune des rapports de force en présence, notre cellule d'analyse décrypte les dynamiques territoriales et les marges de manœuvre des différentes formations.",
+    "date": "Juin 2026",
+    "lien": "#"
+  },
+  {
+    "id": "2",
+    "tag": "Thought Leadership",
+    "titre": "La conquête du pouvoir par la bataille culturelle",
+    "extrait": "Retour sur l'intervention de Joshua Adel chez Open Politics : comment les idées deviennent les leviers de l'action politique et économique durable.",
+    "date": "Mai 2026",
+    "lien": "#"
+  },
+  {
+    "id": "3",
+    "tag": "Transitions & RSE",
+    "titre": "COP, biodiversité, RSE : les nouvelles frontières de l'influence",
+    "extrait": "Nos équipes analysent les opportunités pour les entreprises de positionner leur leadership sur les transitions de manière crédible et durable.",
+    "date": "Avril 2026",
+    "lien": "#"
+  }
+]

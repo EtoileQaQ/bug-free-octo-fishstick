@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "nom": "Joshua Adel",
+    "role": "Président & co-fondateur",
+    "bio": "Consultant politique auprès des directions générales, approche gramscienne de l'influence. Ex-TBWA Corporate, fondateur de Proches Influence & Marque.",
+    "photo": null
+  },
+  {
+    "id": "2",
+    "nom": "Alexia Goloubtzoff",
+    "role": "Directrice générale & co-fondatrice",
+    "bio": "À la convergence entre stratégie, influence et prospective. Ex-FleishmanHillard (Omnicom Group), directrice lobbying chez Ylios.",
+    "photo": null
+  },
+  {
+    "id": "3",
+    "nom": "David Roizen",
+    "role": "Associate Partner",
+    "bio": "Ex-Dircab à la mairie de Paris, chef de cabinet au ministère de l'Écologie. Responsable de la communication d'influence et de l'intelligence politique.",
+    "photo": null
+  }
+]

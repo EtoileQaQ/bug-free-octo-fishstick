@@ -1,0 +1,29 @@
+{
+  "name": "bipbop-the-fish",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "framer-motion": "latest",
+    "next": "14",
+    "react": "18",
+    "react-dom": "18"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "18",
+    "@types/react-dom": "18",
+    "autoprefixer": "latest",
+    "eslint": "8",
+    "eslint-config-next": "14",
+    "postcss": "latest",
+    "tailwindcss": "3",
+    "typescript": "latest"
+  }
+}

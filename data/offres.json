@@ -1,0 +1,73 @@
+[
+  {
+    "id": "lobbying-influence",
+    "titre": "Lobbying & influence",
+    "items": [
+      "Audit des systèmes d'influence",
+      "Analyses électorales et études de contexte socio-politique",
+      "Intelligence politique et stratégique",
+      "Cartographie des pouvoirs et schémas de coalition",
+      "Études d'impact et conceptions de public policy",
+      "Interventions législatives pro-actives ou réactives",
+      "Construction de réseaux d'alliés politiques et dans la société civile",
+      "Campagnes d'influence (agenda setting)",
+      "Constitution de coalitions d'acteurs"
+    ]
+  },
+  {
+    "id": "strategie",
+    "titre": "Stratégie",
+    "items": [
+      "Élaboration de plans stratégiques pluriannuels",
+      "Définition de positionnement marché",
+      "Conseil aux consortiums internationaux pour l'entrée sur le marché français et européen",
+      "Recherche de partenariats pour la croissance externe",
+      "Évaluation des politiques publiques",
+      "Adaptation de modèles économiques à un changement de régulation ou à une ouverture à la concurrence",
+      "Analyse géopolitique pour le développement international"
+    ]
+  },
+  {
+    "id": "gouvernance",
+    "titre": "Gouvernance",
+    "items": [
+      "Mise en place de fonctions opérationnelles",
+      "Transformation de la fonction Affaires publiques dans le dispositif de direction générale",
+      "Installation de conseils d'orientation et de comités d'éthique",
+      "Accompagnement de la réorganisation et des nouvelles gouvernances"
+    ]
+  },
+  {
+    "id": "prospective",
+    "titre": "Prospective",
+    "items": [
+      "Notes de prospective sur les emerging issues",
+      "Démarches de prospective appliquée (Brain Trust)",
+      "Pilotage de groupes d'experts en innovation ouverte",
+      "Mise en place de laboratoires d'innovation in house",
+      "Organisation de colloques scientifiques",
+      "Création de chaires d'entreprises et de fondations de recherche"
+    ]
+  },
+  {
+    "id": "raison-etre",
+    "titre": "Raison d'être",
+    "items": [
+      "Audit indépendant des externalités du modèle économique",
+      "Plan de mesures correctives de l'empreinte sur la société",
+      "Mise en place de comités de parties-prenantes dans la gouvernance des entreprises"
+    ]
+  },
+  {
+    "id": "reputation",
+    "titre": "Réputation",
+    "items": [
+      "Audit du risque réputationnel",
+      "Plateforme de positionnement Thought Leadership",
+      "Anticipation de crise et stratégie de réponse",
+      "Monitoring des signaux faibles",
+      "Simulations de crise",
+      "Campagnes de containment des relais hostiles"
+    ]
+  }
+]

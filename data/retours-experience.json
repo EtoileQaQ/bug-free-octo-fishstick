@@ -1,0 +1,20 @@
+[
+  {
+    "id": "coalition",
+    "label": "Coalition d'acteurs",
+    "titre": "Installer une position commune dans un débat réglementaire sensible",
+    "texte": "Structuration d'un réseau d'alliés, cartographie des décideurs et production d'arguments publics pour rendre lisible une position collective."
+  },
+  {
+    "id": "marche",
+    "label": "Entrée de marché",
+    "titre": "Accompagner un acteur international dans sa compréhension du marché français",
+    "texte": "Analyse du contexte politique, identification des parties prenantes et adaptation du positionnement aux contraintes institutionnelles européennes."
+  },
+  {
+    "id": "crise",
+    "label": "Réputation",
+    "titre": "Anticiper les signaux faibles avant une séquence de crise",
+    "texte": "Mise en place d'un monitoring, scénarios de réponse et simulation des relais d'opinion pour contenir les angles de vulnérabilité."
+  }
+]
