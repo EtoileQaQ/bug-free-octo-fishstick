@@ -22,7 +22,10 @@ export const metadata: Metadata = {
   title: 'Spin & Strategy | Rendre le pouvoir aux idées',
   description:
     "Cabinet de conseil alliant politique, influence, stratégie et sciences sociales au service du leadership de pensée.",
-  metadataBase: new URL('https://spin-strategy.fr')
+  metadataBase: new URL('https://spin-strategy.fr'),
+  icons: {
+    icon: '/favicon.ico'
+  }
 }
 
 export default function RootLayout({
